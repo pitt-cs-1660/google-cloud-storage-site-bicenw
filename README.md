@@ -1,4 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p3a22N-M)
+# Update by bicenw on 20231213 - IP address=34.36.67.172
+
 # CS1660 Static Website Project
+
 
 ## Project Requirements
 - Google Cloud Platform (GCP) account
